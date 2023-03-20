@@ -5,26 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Buiseness Development Associate",
+    cardImage: "assets/images/experience-page/INDIAMART.NS_BIG.PNG",
+    place: "India MArt",
+    time: "(July, 2021 - present)",
+    desp: "<li>Build and manage productive, professional relationships with clients</li> <li>Ensure clients are using and deriving benefit from IndiaMART</li> <li>Maximize revenue by upselling other services and achieve</li><li>fortnightly, monthly client retention and revenue targets</li><li>Systematic follow-up and time-bound closures Prompt resolution of complaints</li><li>Determining and conveying sales targets that facilitate the actualization of our company's broader objectives</li><li>Assigning work to Sales Representatives in an equitable manner</li><li>Supervising staff to ensure that they perform the correct tasks to prescribed standards.</li>",
   },
-  {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
-  },
-  {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
-  },
+
 ];
 
 const showCards2 = () => {
@@ -104,7 +91,7 @@ const showCards = () => {
   );
   volunteership.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards);
+//document.addEventListener("DOMContentLoaded", showCards);
 
 // Hackathon Section
 
@@ -227,14 +214,14 @@ const showCards3 = () => {
             <img src="${image}" alt="">
         </div>
         <div class="blog-slider__content">
-          <div class="blog-slider__title">${title}</div>
-          <span class="blog-slider__code">${subtitle}</span>
-          <div class="blog-slider__text">${desp}</div>
-          <a href="${href}" class="blog-slider__button">Read More</a>   
+          <div class="blog-slider__title"></div>
+          <span class="blog-slider__code"></span>
+          <div class="blog-slider__text"></div>
+          <a href="" class="blog-slider__button">Read More</a>   
         </div>
       </div>
       `)
   );
   hackathonsection.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards3);
+//document.addEventListener("DOMContentLoaded", showCards3);

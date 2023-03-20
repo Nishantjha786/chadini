@@ -1,0 +1,160 @@
+# Query: John Doe
+# ContextLines: 1
+
+43 results - 12 files
+
+education.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | Education</title>
+   6      <meta charset="UTF-8">
+
+  16      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/education.html">
+  17:     <meta property="og:title" content="Chandni Shandilya | Education">
+  18      <meta property="og:description" content="This project serves free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world.">
+
+  23  
+  24:     <meta name="application-name" content="Chandni Shandilya | Education" />
+  25:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Education" />
+  26      <meta name="summary" content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
+
+event.html:
+   3    <head>
+   4:     <title>Chandni Shandilya</title>
+   5      <meta charset="UTF-8" />
+
+  17      <!-- Open Graph Cards-->
+  18:     <meta property="og:title" content="Chandni Shandilya | Event" />
+  19      <meta property="og:type" content="profile" />
+
+  26  
+  27:     <meta name="application-name" content="Chandni Shandilya | Research" />
+  28:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Research" />
+  29      <meta
+
+experience.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | Experience</title>
+   6      <meta charset="UTF-8">
+
+  14      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/experience.html">
+  15:     <meta property="og:title" content="Chandni Shandilya | Experience">
+  16      <meta property="og:description" content="This project serves as a free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world.">
+
+  21  
+  22:     <meta name="application-name" content="Chandni Shandilya | Experience" />
+  23:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Experience" />
+  24      <meta name="summary" content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
+
+index.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | Home</title>
+   6      <meta charset="UTF-8">
+
+  14      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/">
+  15:     <meta property="og:title" content="Chandni Shandilya | Home">
+  16      <meta property="og:description" content="This project serves free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world.">
+
+  20      <meta name="twitter:site" content="https://portfolio.smaranjitghose.codes/">
+  21:     <meta name="application-name" content="Chandni Shandilya | Home" />
+  22:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Home" />
+  23      <meta name="summary" content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
+
+  69          <!-- Home Section -->
+  70:         <div class="text col-sm-6" style="margin-top: 140px;">Hi <span class="wave"><img src="assets/images/Hand.gif" width="35px"></span>&nbsp;, I'm <span class="header">Chandni Shandilya</span>
+  71              <div class="center">
+
+projects.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | Projects</title>
+   6      <meta charset="UTF-8" />
+
+  22      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/projects.html" />
+  23:     <meta property="og:title" content="Chandni Shandilya | Projects" />
+  24      <meta property="og:description" content="This project serves as a free and beautiful portfolio template for everyone who needs the perfect portfolio. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world." />
+
+  31  
+  32:     <meta name="application-name" content="Chandni Shandilya | Projects" />
+  33:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Projects" />
+  34      <meta name="summary" content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
+
+reference.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | References</title>
+   6      <meta charset="UTF-8">
+
+  21      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/reference.html">
+  22:     <meta property="og:title" content="Chandni Shandilya | reference">
+  23      <meta property="og:description" content="This project serves free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world.">
+
+  28  
+  29:     <meta name="application-name" content="Chandni Shandilya | reference" />
+  30:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | reference" />
+  31      <meta name="summary" content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
+
+research.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | Research</title>
+   6      <meta charset="UTF-8">
+
+  21      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/research.html">
+  22:     <meta property="og:title" content="Chandni Shandilya | Research">
+  23      <meta property="og:description" content="This project serves free and beautiful portfolio template for everyone. Anyone can showcase their work including moocs, education, projects, experience,etc. to the world.">
+
+  28  
+  29:     <meta name="application-name" content="Chandni Shandilya | Research" />
+  30:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Research" />
+  31      <meta name="summary" content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world." />
+
+sem_temp.html:
+   3    <head>
+   4:     <title>Chandni Shandilya | Semester Memories</title>
+   5  
+
+  26      />
+  27:     <meta property="og:title" content="Chandni Shandilya | Semester Memories" />
+  28      <meta
+
+  42  
+  43:     <meta name="application-name" content="Chandni Shandilya | Semester Memories" />
+  44      <meta
+  45        name="apple-mobile-web-app-title"
+  46:       content="Chandni Shandilya | Semester Memories"
+  47      />
+
+techstack.html:
+   4  <head>
+   5:     <title>Chandni Shandilya | Tech Stack</title>
+   6      <meta charset="UTF-8" />
+
+  24      <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/techstack.html" />
+  25:     <meta property="og:title" content="Chandni Shandilya | Tech Stack" />
+  26      <meta property="og:description"
+
+  34  
+  35:     <meta name="application-name" content="Chandni Shandilya | Tech Stack" />
+  36:     <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Tech Stack" />
+  37      <meta name="summary"
+
+travel_temp.html:
+   4      <head>
+   5:         <title>Chandni Shandilya | Travel</title>
+   6          <meta charset="UTF-8">
+
+  20          <meta property="og:site_name" content="https://portfolio.smaranjitghose.codes/experience.html">
+  21:         <meta property="og:title" content="Chandni Shandilya | Experience">
+  22          <meta property="og:description"
+
+  28  
+  29:         <meta name="application-name" content="Chandni Shandilya | Experience" />
+  30:         <meta name="apple-mobile-web-app-title" content="Chandni Shandilya | Experience" />
+  31          <meta name="summary"
+
+assets\js\app.js:
+  12  <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
+  13: <a class="navbar-brand" href="index.html">Chandni Shandilya </a>
+  14  <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+assets\js\sem_temp.js:
+  6  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar">
+  7: <a class="navbar-brand" href="index.html">Chandni Shandilya </a>
+  8  <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
